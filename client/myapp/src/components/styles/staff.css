@@ -1,0 +1,16 @@
+.listGroup{
+    width:15%;
+    height:fit-content;
+    transition: width 1s;
+    font-size: 100%;
+    font-family: 'Libre Baskerville', serif;
+    margin-bottom : 5%;
+}
+
+.listGroup:hover{
+    width:50%;
+    height:fit-content;
+    transition: width 2s;
+    font-size: 130%;
+    margin-bottom : 5%;
+}
